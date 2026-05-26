@@ -1,4 +1,4 @@
 interface:
-  display_name: "Write AI Architect Project Experience"
-  short_description: "基于项目材料和JD生成定制化AI架构师项目经历文档"
-  default_prompt: "Use $write-ai-architect-project-experience to generate a JD-tailored 项目经历-最终.md from my project details and target job description."
+  display_name: "AI Project Experience Writer"
+  short_description: "按JD生成、百分制审查并重写AI架构师简历项目经历文档"
+  default_prompt: "Use $write-ai-architect-project-experience to generate or review and rewrite my AI architect project experience from a JD and project materials."
